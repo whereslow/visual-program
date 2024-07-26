@@ -21,14 +21,6 @@
       {
         "label": "design",
         "url": "/"
-      },
-      {
-        "label": "setting",
-        "url": "/setting"
-      },
-      {
-        "label": "generate",
-        "url": "/generate"
       }
     ],
     "security": {
