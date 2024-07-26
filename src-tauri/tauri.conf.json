@@ -19,9 +19,16 @@
     },
     "windows": [
       {
-        "title": "visual-program",
-        "width": 800,
-        "height": 600
+        "label": "design",
+        "url": "/"
+      },
+      {
+        "label": "setting",
+        "url": "/setting"
+      },
+      {
+        "label": "generate",
+        "url": "/generate"
       }
     ],
     "security": {
